@@ -1,3 +1,3 @@
-My first project with [a link][1].
+My first project as a student at [Holberton][1].
 
 [1]: https://www.holbertonschool.com/
